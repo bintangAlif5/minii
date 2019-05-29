@@ -7,7 +7,6 @@ A simpel Basic php, html with css
 - example : www.site.com/s2.php?gans=burik
 ```
 * fitur <br>
-
-- Mas Deface
-- Hidden shell
-- Zone-H (miror)
+Mas Deface<br>
+Hidden shell<br>
+Zone-H (miror)<br>
