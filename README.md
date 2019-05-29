@@ -6,3 +6,8 @@ A simpel Basic php, html with css
 - Hidden defalut : ?gans=burik
 - example : www.site.com/s2.php?gans=burik
 ```
+* fitur <br>
+
+- Mas Deface
+- Hidden shell
+- Zone-H (miror)
