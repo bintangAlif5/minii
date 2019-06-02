@@ -7,6 +7,10 @@ A simpel Basic php, html with css
 - example : www.site.com/s2.php?gans=burik
 ```
 * fitur <br>
-Mas Deface<br>
-Hidden shell<br>
-Zone-H (miror)<br>
+- mass deface
+- Admin Finder Page
+- Zone-H
+- Jumping
+- DDOS/DoS
+- Reservepath
+- Ransomware (default punya author :v)
