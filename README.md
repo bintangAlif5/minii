@@ -1,4 +1,4 @@
-<img src="sh3ll.jpg"><br>
+<img src="gambar.jpg"><br>
 # minii
 A simpel Basic php, html with css
 ```
